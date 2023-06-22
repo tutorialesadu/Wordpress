@@ -1,0 +1,9 @@
+<div class=""><p>[text* your-name placeholder "Nume*"] </div>
+<div class=""><p>[text Adresa placeholder "Adresa*"]</p></div>
+<div class=""><p>[email* your-email placeholder "Email*"]</p></div>
+<div class=""><p>[tel* telefon placeholder "Telefon*"]</p></div>
+<div class=""><p>[text your-subject placeholder "Subiect*"] </p></div>
+<div class=""><p>[textarea your-message 25x3 placeholder "Mesaj*" ] </p></div>
+[file atasament limit:5mb filetypes:pdf|gif|jpeg|jpg|png|bmp]
+<br />
+<div class=""><p> [submit "TRIMITE"]</p> </div>
